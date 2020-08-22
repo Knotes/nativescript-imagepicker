@@ -1,10 +1,10 @@
 {
-    "name": "nativescript-imagepicker",
+    "name": "nativescript-imagepicker-knotes",
     "version": "7.1.0",
     "description": "A plugin for the NativeScript framework implementing multiple image picker",
     "repository": {
         "type": "git",
-        "url": "https://github.com/NativeScript/nativescript-imagepicker"
+        "url": "https://github.com/Knotes/nativescript-imagepicker"
     },
     "main": "imagepicker",
     "typings": "index.d.ts",
@@ -40,10 +40,10 @@
     ],
     "author": "NativeScript Team",
     "bugs": {
-        "url": "https://github.com/NativeScript/nativescript-imagepicker/issues"
+        "url": "https://github.com/Knotes/nativescript-imagepicker/issues"
     },
     "license": "Apache-2.0",
-    "homepage": "https://github.com/NativeScript/nativescript-imagepicker",
+    "homepage": "https://github.com/Knotes/nativescript-imagepicker",
     "readmeFilename": "README.md",
     "devDependencies": {
         "tns-core-modules": "^6.0.0",
